@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/yuanguo.hyg/workspace/mem-layout/Debug",
+  "command": "/opt/rh/devtoolset-8/root/usr/bin/c++   -I/home/yuanguo.hyg/local/boost-1.82.0/include  -g   -std=gnu++2a -o CMakeFiles/alignment.dir/src/test_alignment.cpp.o -c /home/yuanguo.hyg/workspace/mem-layout/src/test_alignment.cpp",
+  "file": "/home/yuanguo.hyg/workspace/mem-layout/src/test_alignment.cpp"
+},
+{
+  "directory": "/home/yuanguo.hyg/workspace/mem-layout/Debug",
+  "command": "/opt/rh/devtoolset-8/root/usr/bin/c++   -I/home/yuanguo.hyg/local/boost-1.82.0/include  -g   -std=gnu++2a -o CMakeFiles/serialize.dir/src/test_serialize.cpp.o -c /home/yuanguo.hyg/workspace/mem-layout/src/test_serialize.cpp",
+  "file": "/home/yuanguo.hyg/workspace/mem-layout/src/test_serialize.cpp"
+},
+{
+  "directory": "/home/yuanguo.hyg/workspace/mem-layout/Debug",
+  "command": "/opt/rh/devtoolset-8/root/usr/bin/c++   -I/home/yuanguo.hyg/local/boost-1.82.0/include  -g   -std=gnu++2a -o CMakeFiles/basic.dir/src/test_basic.cpp.o -c /home/yuanguo.hyg/workspace/mem-layout/src/test_basic.cpp",
+  "file": "/home/yuanguo.hyg/workspace/mem-layout/src/test_basic.cpp"
+}
+]
